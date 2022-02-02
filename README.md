@@ -40,6 +40,6 @@
       <img src="https://img.shields.io/badge/DevOps Blog%20by-Leandro Matias%20%20%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge">
     </a>
 
-![Snake animation](https://github.com/lsmatias/leandromatias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lsmatias/lsmatias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
