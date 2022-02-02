@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsmatias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <div style="display: inline_block"><br>
+  <img align="center" alt="matias-microsoft" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/external-microsoft-corporation-an-american-multinational-technology-company-logo-color-tal-revivo.png">
   <img align="center" alt="matias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matias-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="matias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,6 +27,9 @@
   <img align="center" alt="matias-slack" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="matias-windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="matias-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="matias-netcore" height="30" width="40"src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg>
+  <img align="center" alt="matias-azdevops" height="40" width="40"src=https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png>
+  <img align="center" alt="matias-teams" height="40" width="40"src="https://img.icons8.com/fluency/microsoft-teams-2019.png">
   <img align="right" alt="matias-pic" height="150" style="border-radius:50px;" src="https://img.icons8.com/dusk/160/000000/r2-d2.png">
    
  </div>
