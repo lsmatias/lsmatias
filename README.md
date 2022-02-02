@@ -26,7 +26,7 @@
   <img align="center" alt="matias-windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="matias-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="matias-netcore" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="matias-bamboo" height="100" width="130"src="./img/atlassian_bamboo_logo_icon_167828.svgimg/atlassian_bamboo_logo_icon_167828.svgatlassian_bamboo_logo_icon_167828.svgatlassian_bamboo_logo_icon_167828.svg">
+  <img align="center" alt="matias-bamboo" height="100" width="130"src="https://github.com/lsmatias/lsmatias/blob/main/img/atlassian_bamboo_logo_icon_167828.svg">
   <img align="center" alt="matias-azdevops" height="40" width="40"src=https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png>
   <img align="center" alt="matias-teams" height="40" width="40"src="https://img.icons8.com/fluency/microsoft-teams-2019.png">
   <img align="right" alt="matias-starwars" height="100" style="border-radius:10px;"src="https://img.icons8.com/dusk/r2-d2.png">
