@@ -15,7 +15,7 @@
   <img align="center" alt="matias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="matias-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="matias-markdown" height="30" width="40"src="https://img.icons8.com/ultraviolet/markdown.png">
+  <img align="center" alt="matias-markdown" height="30" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/markdown.svg">
   <img align="center" alt="matias-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="matias-vscode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="matias-bitbucket" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
@@ -27,7 +27,6 @@
   <img align="center" alt="matias-netcore" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="matias-bamboo" height="100" width="130"src="https://github.com/lsmatias/lsmatias/blob/main/img/atlassian.svg">
   <img align="center" alt="matias-azdevops" height="40" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/azuredevops.svg">
-   <img align="center" alt="matias-netcore" height="30" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/markdown_icon_207115.svg">
   <img align="center" alt="matias-teams" height="40" width="40"src="https://img.icons8.com/fluency/microsoft-teams-2019.png">
   <img align="right" alt="matias-starwars" height="100" style="border-radius:10px;"src="https://img.icons8.com/dusk/r2-d2.png">
    
