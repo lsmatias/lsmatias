@@ -1,7 +1,7 @@
 ## Olá, sou Leandro Matias
 🚀Trabalho DevOps - Release Manager
 
-👨‍💻Gosto de inovações basiadas em boas praticas de entrega de Software
+👨‍💻Gosto de inovações baseadas em boas praticas de entrega de Software
 
 🎮 Apaixonado por video game e Jogos de Tabuleiro 🎲♟
 
