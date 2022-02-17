@@ -24,6 +24,7 @@
   <img align="center" alt="matias-bamboo" height="100" width="130"src="https://github.com/lsmatias/lsmatias/blob/main/img/atlassian.svg">
   <img align="center" alt="matias-azdevops" height="40" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/azuredevops.svg">
   <img align="center" alt="matias-selo" height="230" width="200"src="https://badges-hub.azurewebsites.net/uploads/19076065.png">
+   <img align="center" alt="matias-selo" height="230" width="200"src="https://badges-hub.azurewebsites.net/uploads/-451386512.png">
   <img align="right" alt="matias-starwars" height="100" style="border-radius:10px;"src="https://img.icons8.com/dusk/r2-d2.png">
    
  </div>
