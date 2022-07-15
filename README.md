@@ -14,14 +14,12 @@
   <img align="center" alt="matias-markdown" height="30" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/markdown.svg">
   <img align="center" alt="matias-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="matias-vscode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="matias-bitbucket" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="center" alt="matias-kubernetes" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="matias-linux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="matias-slack" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="matias-windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="matias-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="matias-netcore" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="matias-bamboo" height="100" width="130"src="https://github.com/lsmatias/lsmatias/blob/main/img/atlassian.svg">
   <img align="center" alt="matias-azdevops" height="40" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/azuredevops.svg">
   <img align="center" alt="matias-selo" height="90" width="80"src="https://badges-hub.azurewebsites.net/uploads/19076065.png">
   <img align="center" alt="matias-selo" height="90" width="80"src="https://badges-hub.azurewebsites.net/uploads/-451386512.png">
