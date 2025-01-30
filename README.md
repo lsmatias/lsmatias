@@ -21,7 +21,6 @@
   <img align="center" alt="matias-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="matias-netcore" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="matias-azdevops" height="40" width="40"src="https://github.com/lsmatias/lsmatias/blob/main/img/azuredevops.svg">
-
   <img align="right"  alt="matias-starwars" height="90" width="80"src="https://img.icons8.com/dusk/r2-d2.png">
    
  </div>
