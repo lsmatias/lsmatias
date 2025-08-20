@@ -1,21 +1,21 @@
-### Description of changes 🪄
-<!-- Description about changes below -->
+Descrição das alterações 🪄
+<!-- Descrição sobre as alterações abaixo -->
 
-### Ticket 📂
-<!-- Define ticket link -->
-Ticket: 
+Ticket 📂
+<!-- Defina o link do ticket abaixo -->
+Ticket:
 
-### Screenshot 📷
-<!-- Attach screenshot below -->
+Captura de tela 📷
+<!-- Anexe a captura de tela abaixo -->
 
-### New code checklists 💾
-- [ ] Fix bug
-- [ ] New feature
-- [ ] Breaking changes
-- [ ] Unit test
+Checklist de novo código 💾
+- [ ] Correção de bug
+- [ ] Nova funcionalidade
+- [ ] Alterações significativas
+- [ ] Teste unitário
 
-### Merge request checklists 💯
-- [ ] I've attached evidence screenshot
-- [ ] I've checked for any redundant or duplicate code.
-- [ ] I've added unit tests covered new code.
-- [ ] Ensure that new code can works as intended.
+Checklist de solicitação de merge 💯
+- [ ] Anexei evidências com captura de tela
+- [ ] Verifiquei se há código redundante ou duplicado
+- [ ] Adicionei testes unitários para cobrir o novo código
+- [ ] Garanti que o novo código funciona conforme pretendido
